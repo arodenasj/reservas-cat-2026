@@ -6,7 +6,7 @@
 
 ## 📲 Descargar la App para Android
 
-**[➡️ Haz clic aquí para descargar el archivo APK ⬅️](https://github.com/arodenasj/reservas-cat-2026/releases/download/v.1.0/reserva-sillas-CAT-2026.apk)**
+**[➡️ Haz clic aquí para descargar el archivo APK ⬅️](https://github.com/arodenasj/reservas-cat-2026/releases/download/v.1.1/reserva-sillas-CAT-2026.v1.1.apk)**
 
 *Sigue el enlace para descargar e instalar la aplicación directamente en tu teléfono Android.*
 
